@@ -13,6 +13,13 @@ branch: master
 revision: HEAD
 ```
 
+```
+URI: git://github.com/openembedded/meta-openembedded.git
+layers: meta-oe
+branch: master
+revision: HEAD
+```
+
 ## Contributing
 
 If you want to contribute changes, you can send Github pull requests at
